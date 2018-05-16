@@ -24,5 +24,3 @@ class PrintStrings < StringMethods
     end
   end
 end
-
-PrintStrings.process("aabbddnxsw")
